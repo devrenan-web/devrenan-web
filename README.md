@@ -1,5 +1,5 @@
-# 💫 About Me:
-C, Python, Typescript Developer
+#  About Me:
+C, Python
 
 
 ## 🌐 Socials:
